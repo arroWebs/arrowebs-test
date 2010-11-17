@@ -1,4 +1,4 @@
-set :application, "arroWebs test"
+set :application, "arroWebs-test"
 set :repository,  "astra:/sites/arrowebs-test"
 
 set :scm, :subversion
